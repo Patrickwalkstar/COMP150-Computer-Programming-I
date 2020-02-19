@@ -1,5 +1,4 @@
 ## COMP150-Computer-Programming-I
-------------------------------------------------------
 Main: Spring 2017 - Intro level computer programming course.
 
 #### Program List: 
