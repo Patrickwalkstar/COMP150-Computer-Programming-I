@@ -4,7 +4,7 @@ Main: Spring 2017 - Intro level computer programming course.
 #### Program List: 
 ------------------------------------------------------
  #### Title: ArrayBasics1.java
- ##### Description: 
+ ##### Description: Use of the following functions using hard-coded and user-input variables -> Selection sort an array. Binary & Linear array search. Reverse the elements of an array. Count the number  of characters in an array of Strings. Shift elements of an array to the right, with wraparound. Convert an array (int or double) to a String. Copy each value in an (double) array to another array. Find the average of an (double) array. 
 ------------------------------------------------------
  #### Title: Arrays.java
  ##### Description: 
