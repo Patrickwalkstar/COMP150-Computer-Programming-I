@@ -1,5 +1,5 @@
-## COMP150-Computer-Programming-I
-Main: Spring 2017 - Intro level computer programming course.
+## Computer-Programming-Basics
+Main: Computer Programming Basics - various java files.
 
 #### Program List: 
 ------------------------------------------------------
